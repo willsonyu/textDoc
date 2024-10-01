@@ -1,0 +1,5 @@
+prompt:
+
+Please summarize the attached data file, focusing on the following aspects:Unique order numbers, Material number, Distribution of positions and subpositions,Any duplicate orders or lines Key observations or patterns in the data.
+
+
